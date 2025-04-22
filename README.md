@@ -1,42 +1,27 @@
-# 👋 Hi, I'm Sunil Hanamshetty
+# Sunil Hanamshetty 🌿
 
-> _“The world of computers inspires me. It’s truly magical how just a few lines of code can change lives and solve real-world problems.”_ 💻✨
+I’m a **product-minded engineer** with a background in software development, product strategy, and entrepreneurship. I’ve been writing code professionally since 2018 — building everything from educational apps to real-time systems and scalable backends.
 
-I'm a **passionate developer** and **tech explorer** who loves turning ideas into impactful digital experiences. From AI companions to real-time systems, I'm always building with purpose. 💡🚀
+Today, I work at the intersection of **backend architecture**, **developer tooling**, and **product thinking**, helping teams ship thoughtful, high-quality software that scales.
 
----
-
-## 🛠 Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frameworks & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+I’ve worn many hats: founder, engineer, teacher, and now, a rising **product leader** — with a deep belief that technology, when built with heart, can truly change lives. ✨
 
 ---
 
-## 📊 GitHub Stats
+## Follow Me
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shetty456&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shetty456&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/sunilhanamshetty)
-- 🧠 [My Projects](https://github.com/shetty456)
-- ✍️ Currently learning, building, and writing more soon...
+- 💼 LinkedIn: [linkedin.com/in/sunilhanamshetty](https://linkedin.com/in/sunilhanamshetty)
+- 💬 GitHub: [@shetty456](https://github.com/shetty456)
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=shetty456&style=flat-square&color=brightgreen)
+## Highlights
 
+- 🧠 Currently building **Project Radha** – an AI companion focused on presence before solutions
+- ⚡ Architecting a **real-time leaderboard system** with FastAPI, Redis, and WebSocket tech
+- 🎬 Leading the development of a **movie reservation system** with Django
+- 🎯 Long-term goal: Build a human-first, joyful product studio that blends tech, design, and care
+
+---
+
+_“Build with heart. Scale with clarity. Ship with courage.”_
