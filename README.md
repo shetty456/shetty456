@@ -1,6 +1,6 @@
 # Sunil Hanamshetty 🌿
 
-I’m a **product-minded engineer** with a background in software development, product strategy, and entrepreneurship. I’ve been writing code professionally since 2018 — building everything from educational apps to real-time systems and scalable backends.
+I’m a **product-minded engineer** with a background in software development, product strategy, and entrepreneurship. I’ve been writing code professionally since 2021 — building everything from educational apps to real-time systems and scalable backends.
 
 Today, I work at the intersection of **backend architecture**, **developer tooling**, and **product thinking**, helping teams ship thoughtful, high-quality software that scales.
 
