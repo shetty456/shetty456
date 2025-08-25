@@ -17,10 +17,7 @@ I’ve worn many hats: founder, engineer, teacher, and now, a rising **product l
 
 ## Highlights
 
-- 🧠 Currently building **Project Radha** – an AI companion focused on presence before solutions
-- ⚡ Architecting a **real-time leaderboard system** with FastAPI, Redis, and WebSocket tech
-- 🎬 Leading the development of a **movie reservation system** with Django
-- 🎯 Long-term goal: Build a human-first, joyful product studio that blends tech, design, and care
+- 🧠 Currently building **Triveni App** – an AI driven revision platform
 
 ---
 
